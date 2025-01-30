@@ -1,0 +1,11 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	fastqc | SRR8668773	/Users/cloudc/Class/DIY/fastqc/SRR8668773.fastq-009_fastqc.zip
+FastQC	all_sections	fastqc | SRR8668755	/Users/cloudc/Class/DIY/fastqc/SRR8668755.fastq-007_fastqc.zip
+FastQC	all_sections	fastqc | SRR8668758	/Users/cloudc/Class/DIY/fastqc/SRR8668758_fastqc.zip
+FastQC	all_sections	fastqc | SRR8668757	/Users/cloudc/Class/DIY/fastqc/SRR8668757.fastq-004_fastqc.zip
+FastQC	all_sections	fastqc | SRR8668756	/Users/cloudc/Class/DIY/fastqc/SRR8668756.fastq-008_fastqc.zip
+FastQC	all_sections	fastqc | SRR8668769	/Users/cloudc/Class/DIY/fastqc/SRR8668769.fastq-006_fastqc.zip
+FastQC	all_sections	fastqc | SRR8668771	/Users/cloudc/Class/DIY/fastqc/SRR8668771.fastq-003_fastqc.zip
+FastQC	all_sections	fastqc | SRR8668774maybe	/Users/cloudc/Class/DIY/fastqc/SRR8668774maybe_fastqc.zip
+FastQC	all_sections	fastqc | SRR8668772	/Users/cloudc/Class/DIY/fastqc/SRR8668772.fastq-005_fastqc.zip
+FastQC	all_sections	fastqc | SRR8668759	/Users/cloudc/Class/DIY/fastqc/SRR8668759_fastqc.zip
